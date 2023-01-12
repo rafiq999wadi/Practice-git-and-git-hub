@@ -2,4 +2,4 @@
 
 GIT & GETHUB
 
-This is an outline of my procedures using git and github....  Exolaination to follow.
+This is an outline of my procedures using git and github....  Explaination to follow.
